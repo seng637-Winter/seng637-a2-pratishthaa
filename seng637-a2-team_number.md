@@ -12,7 +12,7 @@
 
 **Table of Contents**
 
-[1 Introduction	1](#intro)
+[1 Introduction	](#intro)
 
 [2 Detailed description of unit test strategy](#hld)
 
